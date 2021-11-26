@@ -1,4 +1,5 @@
 # FlipTimerView
+[![](https://jitpack.io/v/sneha-res/FlipCountdownTimer.svg)](https://jitpack.io/#sneha-res/FlipCountdownTimer)
 [![](https://jitpack.io/v/anugotta/FlipTimerView.svg)](https://jitpack.io/#anugotta/FlipTimerView)
 [![License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)]()
 [![API](https://img.shields.io/badge/API-16%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=16)
